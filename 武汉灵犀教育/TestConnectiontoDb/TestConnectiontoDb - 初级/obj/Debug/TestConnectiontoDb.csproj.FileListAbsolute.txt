@@ -1,0 +1,11 @@
+D:\alang\TrainningCode\C Sharp\TestConnectiontoDb\bin\Debug\TestConnectiontoDb.exe.config
+D:\alang\TrainningCode\C Sharp\TestConnectiontoDb\bin\Debug\TestConnectiontoDb.exe
+D:\alang\TrainningCode\C Sharp\TestConnectiontoDb\bin\Debug\TestConnectiontoDb.pdb
+D:\alang\TrainningCode\C Sharp\TestConnectiontoDb\obj\Debug\TestConnectiontoDb.csprojAssemblyReference.cache
+D:\alang\TrainningCode\C Sharp\TestConnectiontoDb\obj\Debug\TestConnectiontoDb.Form1.resources
+D:\alang\TrainningCode\C Sharp\TestConnectiontoDb\obj\Debug\TestConnectiontoDb.Properties.Resources.resources
+D:\alang\TrainningCode\C Sharp\TestConnectiontoDb\obj\Debug\TestConnectiontoDb.csproj.GenerateResource.cache
+D:\alang\TrainningCode\C Sharp\TestConnectiontoDb\obj\Debug\TestConnectiontoDb.csproj.CoreCompileInputs.cache
+D:\alang\TrainningCode\C Sharp\TestConnectiontoDb\obj\Debug\TestConnectiontoDb.exe
+D:\alang\TrainningCode\C Sharp\TestConnectiontoDb\obj\Debug\TestConnectiontoDb.pdb
+D:\alang\TrainningCode\C Sharp\TestConnectiontoDb\obj\Debug\TestConnectiontoDb.FriendForm.resources
